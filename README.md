@@ -1,3 +1,3 @@
 # Profile
 
-anekawamasayuki is a software enngineer.
+anekawamasayuki is a software engineer.
